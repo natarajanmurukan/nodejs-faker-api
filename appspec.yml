@@ -1,5 +1,5 @@
 version: 0.0
 os: linux
 files:
-  - source: /src/test-1.0.0.tgz
+  - source: /src/package.tgz
     destination: /tmp/fakerapi
