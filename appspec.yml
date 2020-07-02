@@ -1,5 +1,5 @@
 version: 0.0
 os: linux
 files:
-  - source: /src/**.tgz
+  - source: /src/
     destination: /tmp/fakerapi
