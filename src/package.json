@@ -1,6 +1,6 @@
 {
   "name": "fakerapi",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "description": "Faker api test package",
   "main": "app.js",
   "dependencies": {
